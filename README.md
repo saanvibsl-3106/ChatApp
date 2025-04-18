@@ -84,3 +84,21 @@ npm run dev
 yarn dev
 
 http://localhost:5173
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🙏 Acknowledgements
+
+- **Firebase** – For providing authentication and real-time database services.
+- **Zustand** – A simple state management tool for React used in this app.
+- **React** – A popular library for building user interfaces.
+- **Tailwind CSS** – A utility-first CSS framework for styling the app quickly.
+- **React Toastify** – For displaying toast notifications to users in real-time.
+- **React Emoji Picker** – Allows the inclusion of emojis in chat messages.
+- **React Icons** – Used for enriching UI with beautiful icons.
+- **Inspiration** – From modern chat UI/UX designs and real-time messaging apps.
