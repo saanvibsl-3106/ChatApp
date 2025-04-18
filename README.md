@@ -47,3 +47,15 @@ A modern, responsive Realtime Chat Application built with React and Firebase, en
 - Firebase project (with Authentication + Firestore enabled)
 
 ### 📥 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/saanvibsl-3106/ChatApp.git
+cd ChatApp
+
+npm run dev
+# or
+yarn dev
+
+http://localhost:5173
