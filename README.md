@@ -37,7 +37,32 @@ A modern, responsive Realtime Chat Application built with React and Firebase, en
 - **Vite** – Fast bundler and dev environment
 
 ---
+## 📋 Sections
 
+- **🔐 Login & Signup**  
+  Firebase Authentication using email and password with real-time form validation.
+
+- **🏠 Home / Chat Dashboard**  
+  Displays recent conversations, search bar, and active chats using Zustand store.
+
+- **🔎 User Search**  
+  Search for other users from Firestore and start a new chat.
+
+- **💬 Chat Window**  
+  Real-time messaging with auto-scroll and emoji support using `react-emoji-picker`.
+
+- **⚙️ Block / Unblock Feature**  
+  Manage user permissions by blocking/unblocking users directly from the chat.
+
+- **🔔 Notifications**  
+  Toast notifications for user actions and system feedback using `react-toastify`.
+
+- **👤 Add New User**  
+  Allows adding a user to start new chats (post-authentication).
+
+- **🌐 Responsive UI**  
+  Fully responsive design using Tailwind CSS and glassmorphic styles for chat interface.
+---
 ## 📦 Getting Started
 
 ### ⚙️ Prerequisites
