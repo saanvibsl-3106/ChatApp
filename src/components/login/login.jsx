@@ -91,7 +91,6 @@ const Login = () => {
             type="file"
             id="file"
             style={{ display: "none" }}
-            on
             onChange={handleAvatar}
           />
           <input type="text" placeholder="Username" name="username" />
