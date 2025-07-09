@@ -15,6 +15,7 @@ const App = () => {
   const {chatId} = useChatStore();
   useEffect(()=>{
        const unSub=onAuthStateChanged(auth,(user)=>{
+        console.log("Auth state changed:", user);
         fetchUserInfo(user?.uid)
        });
 
@@ -22,7 +23,9 @@ const App = () => {
         unSub();
        }
   },[fetchUserInfo])
-
+  useEffect(() => {
+    console.log("Current user in Zustand:", currentUser); // <== ADD THIS
+  }, [currentUser]);
   console.log(currentUser);
   
   if(isLoading)return <div className="loading">Loading...</div>
