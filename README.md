@@ -7,3 +7,9 @@ A modern, responsive Realtime Chat Application built with React and Firebase, en
 A clean and modern login/signup interface with Firebase authentication:
 <img width="1919" height="914" alt="Screenshot 2026-04-17 205044" src="https://github.com/user-attachments/assets/00d8199b-f5e3-4a4f-a9ad-fbbc929406bb" />
 
+## 🚀 Lets Chat – Real Time Messaging App
+
+### 📸 UI Preview
+<img width="1167" height="652" alt="Screenshot 2026-04-21 103258" src="https://github.com/user-attachments/assets/2af28266-6851-418f-b8ba-6e3a16153520" />
+
+
